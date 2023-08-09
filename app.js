@@ -33,7 +33,7 @@ function mudarFundo () {
 }
 
 function mensagem(){
-    alert('eai leonid')
+    alert('Vai corinthians!!!')
 }
 
 forma1.addEventListener('click', trocarCor);
